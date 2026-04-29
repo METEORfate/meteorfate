@@ -5,7 +5,7 @@ updated: 2026-04-29
 description: "lue"
 image: ""
 tags: [learning,physics]
-category:learning 
+category: learning
 draft: false
 ---
 # 1 振动
