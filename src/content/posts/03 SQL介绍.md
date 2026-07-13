@@ -3,7 +3,7 @@ title: database-03-SQL介绍
 published: 2026-03-25
 updated: 2026-03-25
 description: "lue"
-image: ""
+image: ./images/ly3.png
 tags: [database,base,class]
 category: database
 draft: false
