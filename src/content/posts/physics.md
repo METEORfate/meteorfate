@@ -3,7 +3,7 @@ title: Physics
 published: 2026-04-29
 updated: 2026-04-29
 description: "lue"
-image: ./images/ly5.jpg
+image: ./images/ly7.jpg
 tags: [learning,physics]
 category: learning
 draft: false
