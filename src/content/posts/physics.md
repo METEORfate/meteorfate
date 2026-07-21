@@ -6,7 +6,7 @@ description: "lue"
 image: ./images/ly7.jpg
 tags: [learning,physics]
 category: learning
-draft: false
+draft: true
 ---
 # 1 振动
 
